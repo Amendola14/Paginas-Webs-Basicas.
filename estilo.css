@@ -1,0 +1,18 @@
+body {
+    background-color: #0089BA;
+    color: rgba(255, 255, 255, 0.819);
+    font-family: 'Anek Malayalam', sans-serif;
+}
+
+div {
+    width: 100%;
+}
+
+img {
+    width: 850px;
+    height: auto;
+    margin: 0%;
+    display: block;
+    border-radius: 26px;
+    border: 5px solid #000;
+}
